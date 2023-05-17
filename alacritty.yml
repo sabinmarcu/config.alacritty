@@ -5,6 +5,7 @@ font:
   italic:
     family: MonoLisa Nerd font
     style: Italic
+  size: 15.0
 
 colors:
   # Default colors
