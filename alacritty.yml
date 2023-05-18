@@ -1,3 +1,9 @@
+scrolling:
+  history: 100000
+  multiplier: 3
+
+live_config_reload: true
+
 font: 
   normal:
     family: MonoLisa Nerd Font
