@@ -59,10 +59,10 @@ key_bindings:
   - { key: H, mods: Command|Shift, chars: "\x02h" } # left pane
   - { key: J, mods: Command|Shift, chars: "\x02j" } # left pane
   - { key: K, mods: Command|Shift, chars: "\x02k" } # left pane
-  - { key: LBracket, mods: Command, chars: "\x0f" } # navigate back in vim (ctrl+o)
-  - { key: LBracket, mods: Command|Shift, chars: "\x02p" } # switch to next tmux window
-  - { key: RBracket, mods: Command, chars: "\x09" } # navigate forward in vim (ctrl+i)
-  - { key: RBracket, mods: Command|Shift, chars: "\x02n" } # switch to previous tmux window
+  - { key: LBracket, mods: Command|Shift, chars: "\x0f" } # navigate back in vim (ctrl+o)
+  - { key: LBracket, mods: Command, chars: "\x02p" } # switch to next tmux window
+  - { key: RBracket, mods: Command|Shift, chars: "\x09" } # navigate forward in vim (ctrl+i)
+  - { key: RBracket, mods: Command, chars: "\x02n" } # switch to previous tmux window
   - { key: Semicolon, mods: Command, chars: "\x02:" } # enter the tmux command prompt
   - { key: P, mods: Command|Shift, chars: "\x02F" } # tmux fzf
   - { key: Key1, mods: Command, chars: "\x021" } # select tmux window 1
