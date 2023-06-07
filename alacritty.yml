@@ -57,8 +57,8 @@ key_bindings:
   - { key: Comma, mods: Command, chars: "\x02," } # rename the current tmux window
   - { key: L, mods: Command|Shift, chars: "\x02l" } # right pane
   - { key: H, mods: Command|Shift, chars: "\x02h" } # left pane
-  - { key: J, mods: Command|Shift, chars: "\x02j" } # left pane
-  - { key: K, mods: Command|Shift, chars: "\x02k" } # left pane
+  - { key: J, mods: Command|Shift, chars: "\x02j" } # bottom pane
+  - { key: K, mods: Command|Shift, chars: "\x02k" } # top pane
   - { key: LBracket, mods: Command|Shift, chars: "\x0f" } # navigate back in vim (ctrl+o)
   - { key: LBracket, mods: Command, chars: "\x02p" } # switch to next tmux window
   - { key: RBracket, mods: Command|Shift, chars: "\x09" } # navigate forward in vim (ctrl+i)
