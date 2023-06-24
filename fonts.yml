@@ -1,0 +1,9 @@
+font: 
+  normal:
+    family: MonoLisa Nerd Font
+    style: Regular
+  italic:
+    family: MonoLisa Nerd font
+    style: Italic
+  size: 15.0
+
